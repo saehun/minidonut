@@ -1,4 +1,4 @@
-### Hi there 👋
+### The best code is no code. Where there is no code, there are no bugs. No API to learn. No awkward UI. The best refactors are deletions.
 
 <!--
 **minidonut/minidonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
